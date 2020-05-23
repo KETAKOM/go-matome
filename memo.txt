@@ -1,0 +1,6 @@
+# elasticsearch
+
+・ヘルスチェック
+curl -X GET "localhost:9200/_cat/health?v&pretty"
+・ノードの確認
+curl -X GET "localhost:9200/_cat/nodes?v&pretty"
