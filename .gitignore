@@ -1,2 +1,6 @@
 /elasticsearch/
+/fluentd/
+/vendor/
+/mysql/
+/elasticsearch/
 /memo.txt
