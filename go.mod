@@ -39,6 +39,8 @@ require (
 	google.golang.org/api v0.25.0 // indirect
 	google.golang.org/genproto v0.0.0-20200528110217-3d3490e7e671 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
+	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
+	gopkg.in/go-playground/validator.v8 v8.18.2 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	rsc.io/sampler v1.99.99 // indirect
 )

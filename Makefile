@@ -1,5 +1,5 @@
 GO_CMD = go
-VARSION = -u
+VARSION = 
 
 all:  fmt tools clean build
 
