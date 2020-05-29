@@ -1,5 +1,6 @@
 /elasticsearch/
 /fluentd/
 /mysql/
+/mysql2/
 /target/
 /memo.txt
